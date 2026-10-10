@@ -1,4 +1,4 @@
-import Header from "./components/header/header";
+import Header from "./components/header/Header";
 import Hero from "./components/hero/Hero";
 
 export default function App() {
